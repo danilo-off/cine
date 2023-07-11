@@ -1,0 +1,56 @@
+[
+  {
+    "nome": "Meu Pai",
+    "url": "https://vizer.tv/filme/online/meu-pai",
+    "img": "https://vizer.tv/content/movies/posterPt/342/27863.webp",
+    "detalhe": "Nota: 8.3\nAno: 2021\nDuração: 1h, 37m"
+  },
+  {
+    "nome": "Amor e Morte",
+    "url": "https://vizer.tv/serie/online/amor-e-morte",
+    "img": "https://vizer.tv/content/series/posterPt/342/22314.webp",
+    "detalhe": "Nota: 7.8\nAno: 2023\nDuração média: 60m"
+  },
+  {
+    "nome": "Terra Selvagem",
+    "url": "https://vizer.tv/filme/online/terra-selvagem",
+    "img": "https://vizer.tv/content/movies/posterPt/342/13449.webp",
+    "detalhe": "Nota: 7.7\nAno: 2017\nDuração: 1h, 50m"
+  },
+  {
+    "nome": "Citadel",
+    "url": "https://vizer.tv/serie/online/citadel",
+    "img": "https://vizer.tv/content/series/posterPt/342/22315.webp",
+    "detalhe": "Nota: 6.9\nAno: 2023\nDuração média: 42m"
+  },
+  {
+    "nome": "A Baleia",
+    "url": "https://vizer.tv/filme/online/a-baleia",
+    "img": "https://vizer.tv/content/movies/posterPt/342/39123.webp",
+    "detalhe": "Nota: 8.0\nAno: 2022\nDuração: 1h, 57m"
+  },
+  {
+    "nome": "Uma Pequena Luz",
+    "url": "https://vizer.tv/serie/online/uma-pequena-luz",
+    "img": "https://vizer.tv/content/series/posterPt/342/22319.webp",
+    "detalhe": "Nota: 7.3\nDuração média: 55m\nAno: 2023"
+  },
+  {
+    "nome": "Não! Não Olhe",
+    "url": "https://vizer.tv/filme/online/nao-nao-olhe",
+    "img": "https://vizer.tv/content/movies/posterPt/342/38547.webp",
+    "detalhe": "Nota: 7.3\nAno: 2022\nDuração: 2h, 10m"
+  },
+  {
+    "nome": "Avatar: O Caminho da Água",
+    "url": "https://vizer.tv/filme/online/avatar-o-caminho-da-gua",
+    "img": "https://vizer.tv/content/movies/posterPt/342/38955.webp",
+    "detalhe": "Nota: 8.1\nAno: 2022\nDuração: 3h, 12m"
+  },
+  {
+    "nome": "Pânico VI",
+    "url": "https://vizer.tv/filme/online/panico-vi",
+    "img": "https://vizer.tv/content/movies/posterPt/342/39192.webp",
+    "detalhe": "Nota: 7.3\nAno: 2023\nDuração: 2h, 3m"
+  }
+]
